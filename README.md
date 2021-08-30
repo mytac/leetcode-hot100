@@ -16,3 +16,9 @@ leetcode hot 100
 | 8    | 15     | [三数之和](https://leetcode-cn.com/problems/3sum/)                                                       | 双指针   | 4      | M    |
 | 9    | 17     | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)            | 回溯     | 4      | M    |
 | 10   | 19     | [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)          | 双指针   | 1      | M    |
+
+## 11~20
+
+| 序号 | 原题号 | 名称                                                              | 考点 | 重要度 | 难度 |
+| ---- | ------ | ----------------------------------------------------------------- | ---- | ------ | ---- |
+| 11   | 20     | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 栈   | 1      | S    |
