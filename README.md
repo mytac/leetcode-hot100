@@ -19,10 +19,10 @@ leetcode hot 100
 
 ## 11~20
 
-| 序号 | 原题号 | 名称                                                                           | 考点     | 重要度 | 难度 |
-| ---- | ------ | ------------------------------------------------------------------------------ | -------- | ------ | ---- |
+| 序号 | 原题号 | 名称                                                                           | 考点     | 重要度 | 难度 | 时间       |
+| ---- | ------ | ------------------------------------------------------------------------------ | -------- | ------ | ---- | ---------- |
 | 11   | 20     | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)              | 栈       | 1      | S    |
 | 12   | 21     | [合并两个有序的链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 链表     | 1      | S    |
 | 13   | 22     | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)             | 回溯、dp | 4      | M    |
-| 14   | 70     | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                        | dp       | 4      | S    |
-| 15   | 118    | [杨辉三角](https://leetcode.cn/problems/pascals-triangle)                      | dp       |        | S    |
+| 14   | 70     | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                        | dp       | 3      | S    | 2023-07-13 |
+| 15   | 118    | [杨辉三角](https://leetcode.cn/problems/pascals-triangle)                      | dp       | 1      | S    | 2023-07-13 |
