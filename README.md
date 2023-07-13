@@ -25,3 +25,4 @@ leetcode hot 100
 | 12   | 21     | [合并两个有序的链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 链表     | 1      | S    |
 | 13   | 22     | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)             | 回溯、dp | 4      | M    |
 | 14   | 70     | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                        | dp       | 4      | S    |
+| 15   | 118    | [杨辉三角](https://leetcode.cn/problems/pascals-triangle)                      | dp       |        | S    |
