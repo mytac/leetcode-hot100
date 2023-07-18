@@ -26,3 +26,4 @@ leetcode hot 100
 | 13   | 22     | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)             | 回溯、dp | 4      | M    |
 | 14   | 70     | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/)                        | dp       | 3      | S    | 2023-07-13 |
 | 15   | 118    | [杨辉三角](https://leetcode.cn/problems/pascals-triangle)                      | dp       | 1      | S    | 2023-07-13 |
+| 16   | 338    | [比特位计数](https://leetcode.cn/problems/counting-bits)                       | dp       | 2      | S    | 2023-07-18 |
